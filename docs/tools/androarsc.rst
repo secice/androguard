@@ -1,9 +1,7 @@
-androarsc
-=========
+androguard arsc - resources.arsc parser
+=======================================
 
-.. program-output:: python ../androarsc.py -h
+Parse the resources.arsc file from an APK and print human readable XML.
 
-.. automodule:: androarsc
-    :members:
-    :undoc-members:
-    :show-inheritance:
+.. program-output:: androguard arsc --help
+

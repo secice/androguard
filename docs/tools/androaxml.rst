@@ -1,9 +1,6 @@
-androaxml
-=========
+androguard axml - AndroidManifest.xml parser
+============================================
 
-.. program-output:: python ../androaxml.py -h
+Parse the AndroidManifest.xml from an APK and show/save the XML file.
 
-.. automodule:: androaxml
-    :members:
-    :undoc-members:
-    :show-inheritance:
+.. program-output:: androguard axml --help
